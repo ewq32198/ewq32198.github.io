@@ -4,9 +4,7 @@ title: 我的Blog
 ---
 
 　　<h2>{{ page.title }}</h2>
-
 　　<p>最新文章1</p>
-
 　　<ul>
 
 　　　　{% for post in site.posts %}
